@@ -1,0 +1,86 @@
+body{
+    width: 100%;
+    margin: 0;
+}
+
+section{
+    padding: 40px 0;
+}
+
+.applicant-summary{
+    margin: auto 60px;
+}
+
+.btn-outline-primary{
+    box-shadow: none;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #134B99;
+    border-radius: 4px;
+    width: 120px;
+    padding: 8px 0;
+    background-color: white;
+    margin-bottom: 25px;
+}
+
+.btn:hover{
+    background-color:#B0C3DD;
+}
+
+.btn{
+    font-size: 1.39em;
+    color: #134B99;
+    word-spacing: 10px;
+}
+
+h1{
+    font-family: 'Wavehaus';
+    font-weight: 700;
+    font-size: 40px;
+    color: #09254C;
+}
+
+th{
+    text-align: left;
+    padding: 10px 50px 15px 0;
+    color: #09254C;
+    font-size: 20px;
+}
+
+td{
+    font-size: 20px;
+    font-weight: 500;
+    color: #09254C;
+    font-family: 'Wavehaus';
+    max-width: 350px;
+}
+
+button.attachment{
+    color: white;
+    background-color:#134B99;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 5px 25px;
+    font-family: 'Wavehaus';
+}
+
+button.attachment:hover{
+    opacity: 0.8;
+}
+
+.sub{
+    display: block;
+    color: white;
+    background-color: #134B99;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 30px;
+    font-size: 20px;
+    font-family: 'Wavehaus';
+    margin: 30px auto;
+}
+
+.sub:hover{
+    opacity: 0.8;
+}
